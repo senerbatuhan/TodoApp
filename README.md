@@ -1,4 +1,4 @@
-# TodoApp
+# TodoAppFlask
 
 Basic To Do App with Python Flask framework
 
